@@ -12,5 +12,6 @@ class Person {
     public void setName(String val) {
         name = val;
     }
+
 }
 
